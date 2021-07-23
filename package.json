@@ -1,0 +1,18 @@
+{
+  "name": "kbbi-api",
+  "version": "1.0.0",
+  "description": "KBBI API by Wahyu Achmad Sentosa",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wahyu Achmad Sentosa",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "node-html-parser": "^4.1.0",
+    "request": "^2.88.2"
+  }
+}
